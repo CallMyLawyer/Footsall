@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Footsal.RestApi.props" />
+</Project>

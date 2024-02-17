@@ -1,0 +1,11 @@
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\bin\Debug\net6.0\Footsal.TaavContracts.deps.json
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\bin\Debug\net6.0\Footsal.TaavContracts.dll
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\bin\Debug\net6.0\Footsal.TaavContracts.pdb
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\Footsal.TaavContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\Footsal.TaavContracts.AssemblyInfoInputs.cache
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\Footsal.TaavContracts.AssemblyInfo.cs
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\Footsal.TaavContracts.csproj.CoreCompileInputs.cache
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\Footsal.TaavContracts.dll
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\refint\Footsal.TaavContracts.dll
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\Footsal.TaavContracts.pdb
+C:\Users\acer\RiderProjects\Footsal\Footsal.TaavContracts\obj\Debug\net6.0\ref\Footsal.TaavContracts.dll

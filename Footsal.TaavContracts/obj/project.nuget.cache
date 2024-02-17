@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOF4+brrpN9zId0Um7eUiAOZpOo3zJdsNhBZDHLe3Y49gm+58JYmLUw3HALaf/QpwnJZfyS+dfj0nA0yI05WsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\RiderProjects\\Footsal\\Footsal.TaavContracts\\Footsal.TaavContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

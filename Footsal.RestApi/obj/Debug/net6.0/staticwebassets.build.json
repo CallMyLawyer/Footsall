@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bUeZIMoXmEpfXv9c+mT7FK9c2JkcIdLl767PsUOqh2Y=",
+  "Source": "Footsal.RestApi",
+  "BasePath": "_content/Footsal.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

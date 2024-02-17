@@ -1,0 +1,14 @@
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\bin\Debug\net6.0\Footsal.Entites.deps.json
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\bin\Debug\net6.0\Footsal.Entites.runtimeconfig.json
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\bin\Debug\net6.0\Footsal.Entites.dll
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\bin\Debug\net6.0\Footsal.Entites.pdb
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.csproj.AssemblyReference.cache
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.AssemblyInfoInputs.cache
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.AssemblyInfo.cs
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.csproj.CoreCompileInputs.cache
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.dll
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\refint\Footsal.Entites.dll
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.pdb
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\Footsal.Entites.genruntimeconfig.cache
+C:\Users\acer\RiderProjects\Footsal\Footsal.Entites\obj\Debug\net6.0\ref\Footsal.Entites.dll
